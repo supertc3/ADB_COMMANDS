@@ -1,6 +1,5 @@
 <p align="center">
   <img width="120px" src="https://www.giggles4kids.co.uk/wp-content/uploads/2017/03/Android-Icon.png" />
-   <img width="120px" src="https://avatars.githubusercontent.com/u/5734878?v=4" />
   <h1 align="center"># Playing With Android Debug Bridge (adb)</h1>
   <h2 align="center">Written By Srinivasa Reddy Mallidi</h2>
 </p>
